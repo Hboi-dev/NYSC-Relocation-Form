@@ -1,0 +1,1 @@
+What if corp member applying for relocation, goes online to fill a form in that regards and then, an interview is being slated. Well, checkout my prototype version of NYSC Relocation Form.
